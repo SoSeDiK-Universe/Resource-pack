@@ -1,8 +1,9 @@
 # Resource pack
 Feel free to contribute!
 
-Also see:
-- [Translations](https://github.com/SoSeDiK-Universe/Locales)
+Please, **do not** update lang files! See [Translations](https://github.com/SoSeDiK-Universe/Locales) for this.
+
+Also, you may be interested in our [Wiki](https://github.com/SoSeDiK-Universe/Wiki)!
 
 ## What to do
 You can see [this link](https://github.com/SoSeDiK-Universe/Resource-pack/projects/1) for information.
