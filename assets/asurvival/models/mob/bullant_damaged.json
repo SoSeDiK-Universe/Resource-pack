@@ -1,0 +1,6 @@
+{
+	"parent": "asurvival:mob/bullant_moving",
+    "textures": {
+        "0": "asurvival:mob/bullant_damaged"
+    }
+}

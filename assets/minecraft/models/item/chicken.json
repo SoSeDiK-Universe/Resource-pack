@@ -1,0 +1,22 @@
+{"parent": "item/generated","textures":{"layer0": "item/chicken"},"overrides":[
+{"predicate":{"custom_model_data":1},"model":"asurvival:item/food/bat_meat"},
+{"predicate":{"custom_model_data":2},"model":"asurvival:item/food/salted_bat_meat"},
+{"predicate":{"custom_model_data":3},"model":"asurvival:item/food/dried_bat_meat"},
+{"predicate":{"custom_model_data":4},"model":"asurvival:item/food/bat_wing"},
+{"predicate":{"custom_model_data":5},"model":"asurvival:item/food/bear_meat"},
+{"predicate":{"custom_model_data":6},"model":"asurvival:item/food/salted_bear_meat"},
+{"predicate":{"custom_model_data":7},"model":"asurvival:item/food/dried_bear_meat"},
+{"predicate":{"custom_model_data":8},"model":"asurvival:item/food/human_meat"},
+{"predicate":{"custom_model_data":9},"model":"asurvival:item/food/salted_human_meat"},
+{"predicate":{"custom_model_data":10},"model":"asurvival:item/food/dried_human_meat"},
+{"predicate":{"custom_model_data":11},"model":"asurvival:item/food/salted_pig_meat"},
+{"predicate":{"custom_model_data":12},"model":"asurvival:item/food/dried_pig_meat"},
+{"predicate":{"custom_model_data":13},"model":"asurvival:item/food/salted_cow_meat"},
+{"predicate":{"custom_model_data":14},"model":"asurvival:item/food/dried_cow_meat"},
+{"predicate":{"custom_model_data":15},"model":"asurvival:item/food/salted_chicken_meat"},
+{"predicate":{"custom_model_data":16},"model":"asurvival:item/food/dried_chicken_meat"},
+{"predicate":{"custom_model_data":17},"model":"asurvival:item/food/salted_rabbit_meat"},
+{"predicate":{"custom_model_data":18},"model":"asurvival:item/food/dried_rabbit_meat"},
+{"predicate":{"custom_model_data":19},"model":"asurvival:item/food/salted_sheep_meat"},
+{"predicate":{"custom_model_data":20},"model":"asurvival:item/food/dried_sheep_meat"}
+]}

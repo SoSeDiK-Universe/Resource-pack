@@ -1,0 +1,6 @@
+{
+	"parent": "asurvival:mob/scorpion_moving",
+    "textures": {
+        "0": "asurvival:mob/scorpion_damaged"
+    }
+}
