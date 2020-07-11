@@ -1,5 +1,5 @@
 # Resource pack
-Feel free to contribute!
+Feel free to contribute! [Direct link for a ZIP archive](https://www.dropbox.com/s/s1aym646do630hn/ASurvival.zip?dl=1).
 
 Please, **do not** update lang files! See [Translations](https://github.com/SoSeDiK-Universe/Locales) for this.
 
