@@ -23,7 +23,7 @@
 {"type":"bitmap","file":"asurvival:font/icon/fire.png","ascent":7,"chars":["\uE014"]},
 {"type":"bitmap","file":"asurvival:font/icon/slime.png","ascent":7,"chars":["\uE015"]},
 {"type":"bitmap","file":"asurvival:font/icon/backpack.png","ascent":7,"chars":["\uE016"]},
-{"type":"bitmap","file":"mob_effect/mining_fatigue.png","ascent":7,"chars":["\uE017"]},
+{"type":"bitmap","file":"asurvival:font/effect/mining_fatigue.png","ascent":7,"chars":["\uE017"]},
 {"type":"bitmap","file":"asurvival:font/icon/book.png","ascent":7,"chars":["\uE018"]},
 {"type":"bitmap","file":"asurvival:font/icon/thirst.png","ascent":7,"chars":["\uE019"]},
 {"type":"bitmap","file":"asurvival:font/icon/half_thirst.png","ascent":7,"chars":["\uE01A"]},
