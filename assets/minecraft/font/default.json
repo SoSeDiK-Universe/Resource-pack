@@ -241,6 +241,7 @@
 {"type":"bitmap","file":"font/emojis/v.png","ascent":7,"chars":["\uE10B"]},
 {"type":"bitmap","file":"font/emojis/man_shrugging.png","ascent":7,"chars":["\uE10C"]},
 {"type":"bitmap","file":"font/emojis/woman_shrugging.png","ascent":7,"chars":["\uE10D"]},
+{"type":"bitmap","file":"font/emojis/_discord.png","ascent":7,"chars":["\uE10E"]},
 
 {"type":"bitmap","file":"item/totem_of_undying.png","ascent":7,"chars":["\uE500"]},
 {"type":"bitmap","file":"item/oak_boat.png","ascent":7,"chars":["\uE501"]},
