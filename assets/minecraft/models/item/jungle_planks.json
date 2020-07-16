@@ -1,11 +1,1 @@
-{
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "block/jungle_planks"
-    },
-	"display": {
-		"head": {
-			"translation": [0, -5, 0]
-		}
-	}
-}
+{"parent":"block/cube_all","textures":{"all":"block/jungle_planks"},"display":{"head":{"translation":[0,-5,0]}}}

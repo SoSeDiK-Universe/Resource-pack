@@ -1,9 +1,3 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "item/golden_helmet"
-    },
-    "overrides": [
-		{ "predicate": { "custom_model_data": 10000000 }, "model": "asurvival:item/armor/ruby_crown" }
-	]
-}
+{"parent":"item/generated","textures":{"layer0":"item/golden_helmet"},"overrides":[
+{"predicate":{"custom_model_data":1},"model":"asurvival:item/armor/ruby_crown"}
+]}

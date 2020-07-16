@@ -1,9 +1,3 @@
-{
-	"parent": "item/generated",
-	"textures": {
-		"layer0": "item/spider_eye"
-	},
-	"overrides": [
-		{ "predicate": { "custom_model_data": 10000000 }, "model": "asurvival:item/food/scorpion_eye" }
-	]
-}
+{"parent":"item/generated","textures":{"layer0":"item/spider_eye"},"overrides":[
+{"predicate":{"custom_model_data":1},"model":"asurvival:item/food/scorpion_eye"}
+]}

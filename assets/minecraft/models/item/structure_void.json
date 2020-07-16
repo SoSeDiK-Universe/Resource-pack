@@ -1,5 +1,5 @@
 {"parent":"item/generated","textures":{"layer0":"item/structure_void"},"overrides":[
-{"predicate":{"custom_model_data":10000000},"model":"item/air"},
+{"predicate":{"custom_model_data":1},"model":"item/air"},
 {"predicate":{"custom_model_data":10000001},"model":"asurvival:mob/infested_zombie/head"},
 {"predicate":{"custom_model_data":10000002},"model":"asurvival:mob/infested_zombie/head_hurt"},
 {"predicate":{"custom_model_data":10000003},"model":"asurvival:mob/infested_zombie/body"},
