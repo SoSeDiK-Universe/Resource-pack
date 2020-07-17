@@ -6,6 +6,7 @@
 "asurvival.item.craft_flake_fail":{"category":"master","sounds":[{"name":"asurvival/item/craft_flake_fail"}]},
 
 "asurvival.block.wood_chop":{"category":"master","sounds":[{"name":"asurvival/block/wood_chop"}]},
+"asurvival.block.wood_chop_fail":{"category":"master","sounds":[{"name":"asurvival/block/wood_chop_fail"}]},
 
 "asurvival.entity.scorpion.hurt":{"category":"master","sounds":[{"name":"asurvival/entity/scorpion/hurt"}]},
 "asurvival.entity.scorpion.death":{"category":"master","sounds":[{"name":"asurvival/entity/scorpion/death"}]},
