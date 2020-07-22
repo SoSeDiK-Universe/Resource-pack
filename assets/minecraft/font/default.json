@@ -22,7 +22,7 @@
 {"type":"bitmap","file":"asurvival:font/icon/broken.png","ascent":7,"chars":["\uE013"]},
 {"type":"bitmap","file":"asurvival:font/icon/fire.png","ascent":7,"chars":["\uE014"]},
 {"type":"bitmap","file":"asurvival:font/icon/slime.png","ascent":7,"chars":["\uE015"]},
-{"type":"bitmap","file":"asurvival:font/icon/backpack.png","ascent":7,"chars":["\uE016"]},
+{"type":"bitmap","file":"asurvival:gui/backpack.png","ascent":7,"chars":["\uE016"]},
 {"type":"bitmap","file":"asurvival:font/effect/mining_fatigue.png","ascent":7,"chars":["\uE017"]},
 {"type":"bitmap","file":"asurvival:font/icon/book.png","ascent":7,"chars":["\uE018"]},
 {"type":"bitmap","file":"asurvival:font/icon/thirst.png","ascent":7,"chars":["\uE019"]},
@@ -36,6 +36,7 @@
 {"type":"bitmap","file":"asurvival:font/icon/the_end.png","ascent":7,"chars":["\uE021"]},
 {"type":"bitmap","file":"asurvival:font/icon/overworld.png","ascent":7,"chars":["\uE022"]},
 {"type":"bitmap","file":"asurvival:font/icon/space.png","ascent":7,"chars":["\uE023"]},
+{"type":"bitmap","file":"asurvival:gui/potions_bag.png","ascent":7,"chars":["\uE024"]},
 
 {"type":"bitmap","file":"asurvival:font/effect/dehydration.png","ascent":7,"chars":["\uE029"]},
 {"type":"bitmap","file":"asurvival:font/effect/itch.png","ascent":7,"chars":["\uE02A"]},

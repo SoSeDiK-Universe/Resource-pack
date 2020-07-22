@@ -1,6 +1,1 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "asurvival:gui/elytra"
-    }
-}
+{"parent":"item/generated","textures":{"layer0":"asurvival:gui/elytra"}}

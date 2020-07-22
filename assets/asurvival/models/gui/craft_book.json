@@ -1,1 +1,1 @@
-{"parent": "asurvival:gui/backpack","textures":{"layer0":"asurvival:gui/craft_book"}}
+{"parent": "asurvival:gui/equipment","textures":{"layer0":"asurvival:gui/craft_book"}}
