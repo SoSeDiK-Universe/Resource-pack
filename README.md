@@ -1,6 +1,6 @@
 # Resource pack / Пакет ресурсов
-Feel free to contribute! [Direct link for a ZIP archive](https://www.dropbox.com/s/s1aym646do630hn/ASurvival.zip?dl=1).
-> Вносите свой вклад! [Прямая ссылка на ZIP архив](https://www.dropbox.com/s/s1aym646do630hn/ASurvival.zip?dl=1).
+Feel free to contribute! [Direct link for a ZIP archive](https://github.com/SoSeDiK-Universe/Resource-pack/raw/master/ASurvival.zip).
+> Вносите свой вклад! [Прямая ссылка на ZIP архив](https://github.com/SoSeDiK-Universe/Resource-pack/raw/master/ASurvival.zip).
 
 Please, **do not** update lang files! See [Translations](https://github.com/SoSeDiK-Universe/Locales) for this.
 > Пожалуйста, **не** обновляйте языковые файлы! Смотрите [Локализации](https://github.com/SoSeDiK-Universe/Locales) для этого.
