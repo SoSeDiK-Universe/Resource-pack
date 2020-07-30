@@ -3,7 +3,7 @@ Feel free to contribute! [Direct link for a ZIP archive](https://www.dropbox.com
 > Вносите свой вклад! [Прямая ссылка на ZIP архив](https://www.dropbox.com/s/s1aym646do630hn/ASurvival.zip?dl=1).
 
 Please, **do not** update lang files! See [Translations](https://github.com/SoSeDiK-Universe/Locales) for this.
-> Пожалуйста, **не** не обновляйте языковые файлы! Смотрите [Локализации](https://github.com/SoSeDiK-Universe/Locales) для этого.
+> Пожалуйста, **не** обновляйте языковые файлы! Смотрите [Локализации](https://github.com/SoSeDiK-Universe/Locales) для этого.
 
 Also, you may be interested in our [Wiki](https://github.com/SoSeDiK-Universe/Wiki)!
 > Также, Вам может быть интересна наша [Вики](https://github.com/SoSeDiK-Universe/Wiki)!
