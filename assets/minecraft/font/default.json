@@ -235,6 +235,8 @@
 {"type":"bitmap","file":"font/emojis/skull_crossbones.png","ascent":7,"chars":["☠"]},
 {"type":"bitmap","file":"font/emojis/hand_splayed.png","ascent":7,"chars":["🖐"]},
 {"type":"bitmap","file":"font/emojis/heart.png","ascent":7,"chars":["❤"]},
+{"type":"bitmap","file":"font/emojis/new_moon_with_face.png","ascent":7,"chars":["🌚"]},
+{"type":"bitmap","file":"font/emojis/full_moon_with_face.png","ascent":7,"chars":["🌝"]},
 
 {"type":"bitmap","file":"font/emojis/_discord.png","ascent":7,"chars":["\uE100"]},
 {"type":"bitmap","file":"font/emojis/_ahegao.png","ascent":7,"chars":["\uE101"]},
