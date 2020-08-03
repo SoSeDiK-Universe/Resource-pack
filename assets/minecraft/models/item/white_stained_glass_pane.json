@@ -31,5 +31,8 @@
 {"predicate":{"custom_model_data":30},"model":"asurvival:gui/backpack_inactive"},
 {"predicate":{"custom_model_data":31},"model":"asurvival:gui/potions_bag_inactive"},
 {"predicate":{"custom_model_data":32},"model":"asurvival:gui/map_inactive"},
-{"predicate":{"custom_model_data":33},"model":"asurvival:gui/pet_inactive"}
+{"predicate":{"custom_model_data":33},"model":"asurvival:gui/pet_inactive"},
+{"predicate":{"custom_model_data":34},"model":"asurvival:gui/palette_filled"},
+{"predicate":{"custom_model_data":35},"model":"asurvival:gui/palette_inactive"},
+{"predicate":{"custom_model_data":36},"model":"asurvival:gui/palette"}
 ]}

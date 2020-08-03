@@ -137,5 +137,6 @@
 {"predicate":{"custom_model_data":136},"model":"asurvival:block/spruce_chopping_block"},
 {"predicate":{"custom_model_data":137},"model":"asurvival:block/crimson_chopping_block"},
 {"predicate":{"custom_model_data":138},"model":"asurvival:block/warped_chopping_block"},
-{"predicate":{"custom_model_data":139},"model":"asurvival:item/unlit_campfire"}
+{"predicate":{"custom_model_data":139},"model":"asurvival:item/unlit_campfire"},
+{"predicate":{"custom_model_data":140},"model":"asurvival:item/easel"}
 ]}

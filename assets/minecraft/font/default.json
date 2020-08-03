@@ -4,7 +4,7 @@
 {"type":"bitmap","file":"asurvival:font/icon/info.png","ascent":7,"chars":["\uE001"]},
 {"type":"bitmap","file":"asurvival:font/icon/yes.png","ascent":7,"chars":["\uE002"]},
 {"type":"bitmap","file":"asurvival:font/icon/no.png","ascent":7,"chars":["\uE003"]},
-
+{"type":"bitmap","file":"asurvival:gui/map.png","ascent":7,"chars":["\uE004"]},
 {"type":"bitmap","file":"asurvival:font/icon/armor_toughness.png","ascent":7,"chars":["\uE005"]},
 {"type":"bitmap","file":"asurvival:font/icon/armor.png","ascent":7,"chars":["\uE006"]},
 {"type":"bitmap","file":"asurvival:font/icon/attack_damage.png","ascent":7,"chars":["\uE007"]},
@@ -37,6 +37,7 @@
 {"type":"bitmap","file":"asurvival:font/icon/overworld.png","ascent":7,"chars":["\uE022"]},
 {"type":"bitmap","file":"asurvival:font/icon/space.png","ascent":7,"chars":["\uE023"]},
 {"type":"bitmap","file":"asurvival:gui/potions_bag.png","ascent":7,"chars":["\uE024"]},
+{"type":"bitmap","file":"asurvival:item/brush.png","ascent":7,"chars":["\uE025"]},
 
 {"type":"bitmap","file":"asurvival:font/effect/dehydration.png","ascent":7,"chars":["\uE029"]},
 {"type":"bitmap","file":"asurvival:font/effect/itch.png","ascent":7,"chars":["\uE02A"]},
@@ -112,6 +113,7 @@
 {"type":"bitmap","file":"asurvival:font/gui/lava_7.png","ascent":-38,"height":35,"chars":["\uE4A7"]},
 {"type":"bitmap","file":"asurvival:font/gui/lava_8.png","ascent":-33,"height":40,"chars":["\uE4A8"]},
 {"type":"bitmap","file":"asurvival:font/gui/lava_9.png","ascent":-28,"height":45,"chars":["\uE4A9"]},
+{"type":"bitmap","file":"asurvival:font/gui/dyes.png","ascent":-5,"height":70,"chars":["\uE4AA"]},
 
 {"type":"bitmap","file":"font/emojis/grinning.png","ascent":7,"chars":["😀"]},
 {"type":"bitmap","file":"font/emojis/smiley.png","ascent":7,"chars":["😃"]},
