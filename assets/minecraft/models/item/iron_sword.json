@@ -1,4 +1,4 @@
-{"parent":"item/handheld","textures":{"layer0":"item/stone_sword"},"overrides":[
+{"parent":"item/handheld","textures":{"layer0":"item/iron_sword"},"overrides":[
 {"predicate":{"custom_model_data":1},"model":"asurvival:item/tool/bronze_sword"},
 {"predicate":{"custom_model_data":2},"model":"asurvival:item/tool/bulat_sword"}
 ]}

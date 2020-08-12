@@ -1,3 +1,4 @@
 {"parent":"item/generated","textures":{"layer0":"item/chainmail_chestplate"},"overrides":[
-{"predicate":{"custom_model_data":1},"model":"asurvival:item/armor/magma_chestplate"}
+{"predicate":{"custom_model_data":1},"model":"asurvival:item/armor/magma_chestplate"},
+{"predicate":{"custom_model_data":2},"model":"asurvival:item/armor/wool_chestplate"}
 ]}

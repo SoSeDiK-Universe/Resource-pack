@@ -18,5 +18,6 @@
 {"predicate":{"custom_model_data":17},"model":"asurvival:item/food/bitten_cake_4"},
 {"predicate":{"custom_model_data":18},"model":"asurvival:item/food/bitten_cake_5"},
 {"predicate":{"custom_model_data":19},"model":"asurvival:item/food/bitten_cake_6"},
-{"predicate":{"custom_model_data":20},"model":"asurvival:item/brush"}
+{"predicate":{"custom_model_data":20},"model":"asurvival:item/brush"},
+{"predicate":{"custom_model_data":21},"model":"asurvival:item/iron_knife"}
 ]}

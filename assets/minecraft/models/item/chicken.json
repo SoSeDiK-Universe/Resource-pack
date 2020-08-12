@@ -1,8 +1,8 @@
-{"parent": "item/generated","textures":{"layer0": "item/chicken"},"overrides":[
+{"parent":"item/generated","textures":{"layer0":"item/chicken"},"overrides":[
 {"predicate":{"custom_model_data":1},"model":"asurvival:item/food/bat_meat"},
 {"predicate":{"custom_model_data":2},"model":"asurvival:item/food/salted_bat_meat"},
 {"predicate":{"custom_model_data":3},"model":"asurvival:item/food/dried_bat_meat"},
-{"predicate":{"custom_model_data":4},"model":"asurvival:item/food/bat_wing"},
+{"predicate":{"custom_model_data":4},"model":"asurvival:item/food/dolphin_meat"},
 {"predicate":{"custom_model_data":5},"model":"asurvival:item/food/bear_meat"},
 {"predicate":{"custom_model_data":6},"model":"asurvival:item/food/salted_bear_meat"},
 {"predicate":{"custom_model_data":7},"model":"asurvival:item/food/dried_bear_meat"},
@@ -18,5 +18,7 @@
 {"predicate":{"custom_model_data":17},"model":"asurvival:item/food/salted_rabbit_meat"},
 {"predicate":{"custom_model_data":18},"model":"asurvival:item/food/dried_rabbit_meat"},
 {"predicate":{"custom_model_data":19},"model":"asurvival:item/food/salted_sheep_meat"},
-{"predicate":{"custom_model_data":20},"model":"asurvival:item/food/dried_sheep_meat"}
+{"predicate":{"custom_model_data":20},"model":"asurvival:item/food/dried_sheep_meat"},
+{"predicate":{"custom_model_data":21},"model":"asurvival:item/food/salted_dolphin_meat"},
+{"predicate":{"custom_model_data":22},"model":"asurvival:item/food/dried_dolphin_meat"}
 ]}

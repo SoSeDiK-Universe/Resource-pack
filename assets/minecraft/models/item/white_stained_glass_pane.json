@@ -34,5 +34,6 @@
 {"predicate":{"custom_model_data":33},"model":"asurvival:gui/pet_inactive"},
 {"predicate":{"custom_model_data":34},"model":"asurvival:gui/palette_filled"},
 {"predicate":{"custom_model_data":35},"model":"asurvival:gui/palette_inactive"},
-{"predicate":{"custom_model_data":36},"model":"asurvival:gui/palette"}
+{"predicate":{"custom_model_data":36},"model":"asurvival:gui/palette"},
+{"predicate":{"custom_model_data":37},"model":"asurvival:gui/brush_inactive"}
 ]}
