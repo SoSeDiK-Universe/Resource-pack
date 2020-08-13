@@ -25,6 +25,6 @@
 {"predicate":{"custom_model_data":24},"model":"asurvival:item/food/baked_apple"},
 {"predicate":{"custom_model_data":25},"model":"asurvival:item/food/roasted_beetroot"},
 {"predicate":{"custom_model_data":26},"model":"asurvival:item/food/fried_egg"},
-{"predicate":{"custom_model_data":27},"model":"asurvival:item/food/jerky_pufferfish"},
+{"predicate":{"custom_model_data":27},"model":"asurvival:item/food/grilled_pufferfish"},
 {"predicate":{"custom_model_data":28},"model":"asurvival:item/food/piece_of_cake"}
 ]}
