@@ -74,7 +74,7 @@
 {"predicate":{"custom_model_data":73},"model":"asurvival:item/poor_iron_nugget"},
 {"predicate":{"custom_model_data":74},"model":"asurvival:item/dough"},
 {"predicate":{"custom_model_data":75},"model":"asurvival:item/rough_stick"},
-{"predicate":{"custom_model_data":76},"model":"asurvival:block/cassiterite_ore"},
+{"predicate":{"custom_model_data":76},"model":"asurvival:block/rain_collector"},
 {"predicate":{"custom_model_data":77},"model":"asurvival:item/copper_cluster"},
 {"predicate":{"custom_model_data":78},"model":"asurvival:item/copper_ingot"},
 {"predicate":{"custom_model_data":79},"model":"asurvival:item/tin_cluster"},

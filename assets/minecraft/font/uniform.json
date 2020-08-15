@@ -114,6 +114,7 @@
 {"type":"bitmap","file":"asurvival:font/gui/lava_8.png","ascent":-33,"height":40,"chars":["\uE4A8"]},
 {"type":"bitmap","file":"asurvival:font/gui/lava_9.png","ascent":-28,"height":45,"chars":["\uE4A9"]},
 {"type":"bitmap","file":"asurvival:font/gui/dyes.png","ascent":-5,"height":70,"chars":["\uE4AA"]},
+{"type":"bitmap","file":"asurvival:font/menu/rain_collector.png","ascent":13,"height":72,"chars":["\uE4AB"]},
 
 {"type":"bitmap","file":"font/emojis/grinning.png","ascent":7,"chars":["😀"]},
 {"type":"bitmap","file":"font/emojis/smiley.png","ascent":7,"chars":["😃"]},
