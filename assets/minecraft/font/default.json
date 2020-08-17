@@ -38,6 +38,7 @@
 {"type":"bitmap","file":"asurvival:font/icon/space.png","ascent":7,"chars":["\uE023"]},
 {"type":"bitmap","file":"asurvival:gui/potions_bag.png","ascent":7,"chars":["\uE024"]},
 {"type":"bitmap","file":"asurvival:item/brush.png","ascent":7,"chars":["\uE025"]},
+{"type":"bitmap","file":"asurvival:font/icon/bubble.png","ascent":7,"chars":["\uE026"]},
 
 {"type":"bitmap","file":"asurvival:font/effect/dehydration.png","ascent":7,"chars":["\uE029"]},
 {"type":"bitmap","file":"asurvival:font/effect/itch.png","ascent":7,"chars":["\uE02A"]},
