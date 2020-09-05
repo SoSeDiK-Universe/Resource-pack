@@ -294,5 +294,6 @@
 {"type":"bitmap","file":"item/cooked_beef.png","ascent":7,"chars":["\uE526"]},
 {"type":"bitmap","file":"item/carrot.png","ascent":7,"chars":["\uE527"]},
 {"type":"bitmap","file":"item/rotten_flesh.png","ascent":7,"chars":["\uE528"]},
-{"type":"bitmap","file":"item/beetroot_soup.png","ascent":7,"chars":["\uE529"]}
+{"type":"bitmap","file":"item/beetroot_soup.png","ascent":7,"chars":["\uE529"]},
+{"type":"bitmap","file":"block/soul_torch.png","ascent":7,"chars":["\uE52A"]}
 ]}

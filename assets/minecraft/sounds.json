@@ -20,5 +20,11 @@
 "asurvival.entity.bullant.step":{"category":"master","sounds":[{"name":"asurvival/entity/bullant/step"}]},
 "asurvival.entity.bullant.attack0":{"category":"master","sounds":[{"name":"asurvival/entity/bullant/attack0"}]},
 "asurvival.entity.bullant.attack1":{"category":"master","sounds":[{"name":"asurvival/entity/bullant/attack1"}]},
-"asurvival.entity.bullant.attack2":{"category":"master","sounds":[{"name":"asurvival/entity/bullant/attack2"}]}
+"asurvival.entity.bullant.attack2":{"category":"master","sounds":[{"name":"asurvival/entity/bullant/attack2"}]},
+
+"asurvival.entity.grue.death":{"category":"master","sounds":[{"name":"asurvival/entity/grue/death"}]},
+"asurvival.entity.grue.spawn":{"category":"master","sounds":[{"name":"asurvival/entity/grue/spawn"}]},
+"asurvival.entity.grue.whisper1":{"category":"master","sounds":[{"name":"asurvival/entity/grue/whisper1"}]},
+"asurvival.entity.grue.whisper2":{"category":"master","sounds":[{"name":"asurvival/entity/grue/whisper2"}]},
+"asurvival.entity.grue.whisper3":{"category":"master","sounds":[{"name":"asurvival/entity/grue/whisper3"}]}
 }
