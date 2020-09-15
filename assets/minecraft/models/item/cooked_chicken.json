@@ -18,5 +18,7 @@
 {"predicate":{"custom_model_data":17},"model":"asurvival:item/food/cooked_squid_meat"},
 {"predicate":{"custom_model_data":18},"model":"asurvival:item/food/cooked_ocelot_meat"},
 {"predicate":{"custom_model_data":19},"model":"asurvival:item/food/cooked_parrot_meat"},
-{"predicate":{"custom_model_data":20},"model":"asurvival:item/food/cooked_mule_meat"}
+{"predicate":{"custom_model_data":20},"model":"asurvival:item/food/cooked_mule_meat"},
+{"predicate":{"custom_model_data":21},"model":"asurvival:item/food/sweet_berry_mince"},
+{"predicate":{"custom_model_data":22},"model":"asurvival:item/food/sweet_berry_meatballs"}
 ]}

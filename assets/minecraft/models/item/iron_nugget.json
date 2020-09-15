@@ -140,5 +140,7 @@
 {"predicate":{"custom_model_data":139},"model":"asurvival:item/unlit_campfire"},
 {"predicate":{"custom_model_data":140},"model":"asurvival:item/easel"},
 {"predicate":{"custom_model_data":141},"model":"asurvival:item/paint_bucket"},
-{"predicate":{"custom_model_data":142},"model":"asurvival:item/paint_sponge"}
+{"predicate":{"custom_model_data":142},"model":"asurvival:item/paint_sponge"},
+{"predicate":{"custom_model_data":143},"model":"asurvival:item/sweet_berry_pips"},
+{"predicate":{"custom_model_data":144},"model":"asurvival:item/jelled_slime"}
 ]}
