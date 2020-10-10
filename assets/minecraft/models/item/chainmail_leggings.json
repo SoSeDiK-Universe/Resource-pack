@@ -1,3 +1,0 @@
-{"parent":"item/generated","textures":{"layer0":"item/chainmail_leggings"},"overrides":[
-{"predicate":{"custom_model_data":1},"model":"asurvival:item/armor/wool_leggings"}
-]}
