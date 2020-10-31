@@ -36,5 +36,8 @@
 {"predicate":{"custom_model_data":35},"model":"asurvival:gui/palette_inactive"},
 {"predicate":{"custom_model_data":36},"model":"asurvival:gui/palette"},
 {"predicate":{"custom_model_data":37},"model":"asurvival:gui/brush_inactive"},
-{"predicate":{"custom_model_data":38},"model":"asurvival:gui/thermometer_inactive"}
+{"predicate":{"custom_model_data":38},"model":"asurvival:gui/thermometer_inactive"},
+{"predicate":{"custom_model_data":39},"model":"asurvival:block/cauldron_lava_holder"},
+{"predicate":{"custom_model_data":40},"model":"asurvival:block/cauldron_milk_holder"},
+{"predicate":{"custom_model_data":41},"model":"asurvival:block/cauldron_honey_holder"}
 ]}

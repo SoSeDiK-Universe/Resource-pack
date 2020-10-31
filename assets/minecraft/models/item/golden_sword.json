@@ -9,7 +9,7 @@
 {"predicate":{"custom_model_data":8},"model":"asurvival:item/blazing_ghastmallow"},
 {"predicate":{"custom_model_data":9},"model":"asurvival:item/copper_bucket"},
 {"predicate":{"custom_model_data":10},"model":"asurvival:item/tin_bucket"},
-{"predicate":{"custom_model_data":11},"model":"asurvival:item/gloves/leather_gloves"},
+
 {"predicate":{"custom_model_data":12},"model":"asurvival:item/bellows"},
 {"predicate":{"custom_model_data":13},"model":"asurvival:item/hearth"},
 {"predicate":{"custom_model_data":14},"model":"asurvival:item/food/bitten_cake_1"},

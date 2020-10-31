@@ -52,6 +52,8 @@
 {"type":"bitmap","file":"asurvival:font/effect/bribe.png","ascent":7,"chars":["\uE08F"]},
 {"type":"bitmap","file":"asurvival:font/effect/heat_resistance.png","ascent":7,"chars":["\uE090"]},
 {"type":"bitmap","file":"asurvival:font/effect/cold_resistance.png","ascent":7,"chars":["\uE091"]},
+{"type":"bitmap","file":"asurvival:font/effect/poison_immunity.png","ascent":7,"chars":["\uE092"]},
+{"type":"bitmap","file":"asurvival:font/effect/lava_blood.png","ascent":7,"chars":["\uE093"]},
 	
 {"type":"bitmap","file":"asurvival:font/thirst/thirst.png","ascent":-15,"height":9,"chars":["\uE400"]},
 {"type":"bitmap","file":"asurvival:font/thirst/thirst_half.png","ascent":-15,"height":9,"chars":["\uE401"]},

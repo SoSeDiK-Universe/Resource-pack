@@ -143,5 +143,7 @@
 {"predicate":{"custom_model_data":142},"model":"asurvival:item/paint_sponge"},
 {"predicate":{"custom_model_data":143},"model":"asurvival:item/sweet_berry_pips"},
 {"predicate":{"custom_model_data":144},"model":"asurvival:item/jelled_slime"},
-{"predicate":{"custom_model_data":145},"model":"asurvival:item/magma_shard"}
+{"predicate":{"custom_model_data":145},"model":"asurvival:item/magma_shard"},
+{"predicate":{"custom_model_data":146},"model":"asurvival:item/food/creeper_cake"},
+{"predicate":{"custom_model_data":147},"model":"asurvival:item/food/poisoned_cake"}
 ]}
