@@ -1,4 +1,0 @@
-{"parent":"item/generated","textures":{"layer0":"item/leather_horse_armor"},"overrides":[
-{"predicate":{"custom_model_data":1},"model":"asurvival:item/gloves/leather_gloves"},
-{"predicate":{"custom_model_data":2},"model":"asurvival:block/cauldron_holder"}
-]}

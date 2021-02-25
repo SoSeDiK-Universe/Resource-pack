@@ -1,0 +1,32 @@
+{
+	"meat": {
+		"bear_meat": {"translation": [0, -18, 0], "scale": [1.8, 1.9, 1.8]},
+		"bat_meat": {"translation": [0, -15, 0], "scale": [1.8, 1.9, 1.8]},
+		"fox_meat": {"translation": [0, -13, 0], "scale": [1.6, 1.7, 1.6]},
+		"mule_meat": {"translation": [0, -12, 0], "scale": [1.8, 1.9, 1.8]},
+		"turtle_meat": {"translation": [0, -10, 0], "scale": [1.8, 1.9, 1.8]},
+		"dolphin_meat": {"parent": "dried_bat_meat"},
+		"wolf_meat": {"parent": "dried_bat_meat"},
+		"horse_meat": {"parent": "dried_bat_meat"},
+		"llama_meat": {"parent": "dried_bat_meat"},
+		"spider_meat": {"parent": "dried_bat_meat"},
+		"guardian_meat": {"parent": "dried_bat_meat"},
+		"panda_meat": {"parent": "dried_bat_meat"},
+		"squid_meat": {"parent": "dried_bat_meat"},
+		"ocelot_meat": {"parent": "dried_bat_meat"},
+		"parrot_meat": {"parent": "dried_bat_meat"},
+		"donkey_meat": {"parent": "bear_meat"},
+		"piglin_meat": {"parent": "dried_fox_meat"},
+		"human_flesh": {"parent": "dried_mule_meat"},
+
+		"cod": {"translation": [0, -18, 0], "scale": [1.8, 1.9, 1.8], "rotation": [0, 0, 45]},
+		"salmon": {"parent": "dried_cod"},
+		"tropical_fish": {"parent": "dried_cod"},
+		"rabbit_meat": {"translation": [0, -16, 0], "scale": [1.6, 1.7, 1.6]},
+		"pig_meat": {"translation": [0, -14, 0], "scale": [1.6, 1.7, 1.6]},
+		"chicken_meat": {"parent": "dried_pig_meat"},
+		"sheep_meat": {"parent": "dried_pig_meat"},
+		"cow_meat": {"parent": "dried_fox_meat"},
+		"pufferfish": {"parent": "dried_bear_meat"}
+	}
+}

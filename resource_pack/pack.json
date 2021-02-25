@@ -1,0 +1,12 @@
+{
+	"pack": {
+		"pack_format": 6,
+		"description": "§9SoSeDiK's Universe\n  §c❤ Made with Love…"
+	},
+	"options": {
+		"corrupt": true,
+		"read_only": true,
+		"compress": true,
+		"rename": false
+	}
+}

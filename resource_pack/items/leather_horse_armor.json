@@ -1,0 +1,6 @@
+{
+	"items": [
+		"leather_gloves"
+	],
+	"cauldron_holder": {"model": "asurvival:block/cauldron_holder"}
+}

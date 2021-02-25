@@ -1,4 +1,0 @@
-{"parent":"item/generated","textures":{"layer0":"item/leather_chestplate","layer1":"item/leather_chestplate_overlay"},"overrides":[
-{"predicate":{"custom_model_data":1},"model":"asurvival:item/armor/slime_chestplate"},
-{"predicate":{"custom_model_data":2},"model":"asurvival:item/armor/wool_chestplate"}
-]}

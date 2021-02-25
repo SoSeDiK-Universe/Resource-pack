@@ -1,0 +1,6 @@
+{
+	"items": [
+		"canvas"
+	],
+	"fake_painting": {"model":"item/painting"}
+}

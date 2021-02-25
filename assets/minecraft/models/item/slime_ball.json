@@ -1,4 +1,0 @@
-{"parent":"item/generated","textures":{"layer0":"item/slime_ball"},"overrides":[
-{"predicate":{"custom_model_data":1},"model":"asurvival:item/slime_standing"},
-{"predicate":{"custom_model_data":2},"model":"asurvival:item/slime_jumping"}
-]}

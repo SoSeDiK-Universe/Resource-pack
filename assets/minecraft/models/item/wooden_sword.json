@@ -1,4 +1,0 @@
-{"parent":"item/handheld","textures":{"layer0":"item/wooden_sword"},"overrides":[
-{"predicate":{"custom_model_data":1},"model":"asurvival:item/sandstone_hammer"},
-{"predicate":{"custom_model_data":2},"model":"asurvival:item/red_sandstone_hammer"}
-]}
