@@ -1,0 +1,15 @@
+{
+	"parent": "asurvival:item/block/asurvival_block",
+	"display": {
+		"head": {
+			"rotation": [0, 0, 0],
+			"translation": [0, -14.664, 0],
+			"scale": [2.2858, 2.2858, 2.2858]
+		},
+		"thirdperson_righthand": {
+			"rotation": [0, 0, 0],
+			"translation": [-6.01, -2.01, 3.96],
+			"scale": [2, 2, 2]
+		}
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"parent": "block/cube_bottom_top",
+	"textures": {
+		"top": "asurvival:block/texture_top",
+		"down": "asurvival:block/texture_bottom",
+		"side": "asurvival:block/texture_side"
+	}
+}

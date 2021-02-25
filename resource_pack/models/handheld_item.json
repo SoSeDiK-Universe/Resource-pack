@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "asurvival:item/item_type/item_name"
+	}
+}

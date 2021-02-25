@@ -1,0 +1,9 @@
+{
+	"parent": "block/orientable",
+	"textures": {
+		"top": "asurvival:block/texture_top",
+		"down": "asurvival:block/texture_bottom",
+		"side": "asurvival:block/texture_side",
+		"front": "asurvival:block/texture_front"
+	}
+}
